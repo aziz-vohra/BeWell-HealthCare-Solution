@@ -1,12 +1,3 @@
-# AED_Final_Project_JAVA
-
-## Project Title: BeWell HealthCare Solution 
- 
-## Team Members:
-* Aziz Vohra - vohra.az@northeastern.edu
-* Satyajit Das - das.sat@northeastern.edu
-* Altaf Shaikh - shaikh.alt@northeastern.edu
-
 # Problem Statement:
 The global Covid-19 pandemic highlighted the necessity for a technical answer that enables medical stakeholders and emergency workers while safeguarding the wellbeing and safety of all affected. BeWell enables people to effectively control their pandemic response and reduce risk by using social isolation precautions. We recognized the need for a comprehensive system that makes it possible to safely and securely manage the logistics involved in handling a pandemic in a timely manner. Our solution gives users the ability to be "pandemic proof" against all future endemics that may occur globally.
 
